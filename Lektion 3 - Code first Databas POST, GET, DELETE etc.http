@@ -1,0 +1,6 @@
+@Lektion_3___Code_first_Databas_POST__GET__DELETE_etc_HostAddress = http://localhost:5125
+
+GET {{Lektion_3___Code_first_Databas_POST__GET__DELETE_etc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
